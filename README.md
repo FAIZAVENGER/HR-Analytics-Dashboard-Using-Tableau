@@ -7,7 +7,7 @@
 ## Links:
 Lets Connect 
 
-[Go to my LinkedIn]([https://www.linkedin.com/in/gulshan-gedam-362905209/](https://www.linkedin.com/in/mohammed-faizan-khan-514928305/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)) 🌐
+[Go to my LinkedIn](https://www.linkedin.com/in/mohammed-faizan-khan-514928305/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 🌐
 
 [Go to My Dashboard](https://public.tableau.com/app/profile/mohammed.faizan.khan2530/viz/HRANALYTICSDASHBOARD_17557808610070/HRDashboard?publish=yes)
 
@@ -73,7 +73,7 @@ This includes trendline and target line to help HR managers track progress towar
 
 ## DASHBOARD:
 
-![HR Dashboard ](https://user-images.githubusercontent.com/124501309/227755419-ff277f69-fd14-4d51-b85f-973c25a6219f.png)
+![HR Dashboard ](https://github.com/FAIZAVENGER/HR-Analytics-Dashboard-Using-Tableau/blob/main/HR%20Dashboard%20.png)
 
 
 ### DASHBOARD OVERVIEW:
